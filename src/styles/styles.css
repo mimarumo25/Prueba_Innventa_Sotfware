@@ -1,0 +1,8 @@
+.targeta{
+    display: flex;
+    justify-content: center;
+   
+}
+.danger{
+    color: red;
+}
